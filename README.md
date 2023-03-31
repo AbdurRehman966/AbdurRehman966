@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 <h3 align="center">Data Scientist with expertise in Python, SQL, Flask, and Cloud Computing, Etc. Dedicated to utilizing my technical and analytical skills to drive business growth and success</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thecompetence.in%2FData-Science-Beginner-to-Advanced%2F&psig=AOvVaw2-QLG0IqAwKAUVhdf3LuNa&ust=1680383238824000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDUoMWJh_4CFQAAAAAdAAAAABAo">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthethinkcloud.co%2Fdata-analytics-with-python%2F&psig=AOvVaw2-QLG0IqAwKAUVhdf3LuNa&ust=1680383238824000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDUoMWJh_4CFQAAAAAdAAAAABBl">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrehman966&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehman966" /> </p>
 
