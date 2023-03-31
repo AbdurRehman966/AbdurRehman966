@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Machine Learning,My Projects**
 
-- 📫 How to reach me **abdurrehman96605@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/abdurrehman966/**
 
 - ⚡ Fun fact **Learning is hard only if you hate it**
 
