@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdurrehman966/details/projects/](https://www.linkedin.com/in/abdurrehman966/details/projects/)
 
-- 💬 Ask me about **Python, Machine Learning,My Projects**
+- 💬 Ask me about **Python, Machine Learning,Data Science and Model Deployment related doubts**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abdurrehman966/**
 
