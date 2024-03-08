@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
-<h3 align="center">Data Scientist with expertise in Python, SQL, Flask, and Cloud Computing, Etc. Dedicated to utilizing my technical and analytical skills to drive business growth and success</h3>
+<h3 align="center">Data Analyst and FullStack Developer with expertise in  Machine Learning,Data Analysis and Web Development Dedicated to utilizing my technical and analytical skills to drive business growth and success</h3>
 
 <img align="right" alt="coding" width="400" src="https://thethinkcloud.co/wp-content/uploads/2020/07/data-presentation.gif">
 
